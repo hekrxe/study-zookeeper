@@ -6,3 +6,4 @@ target/
 *.patch
 *.DS_Store
 generated/
+.idea
