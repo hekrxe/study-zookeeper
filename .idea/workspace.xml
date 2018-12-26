@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98702cb0-1103-4073-905e-7488a76a0625" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/cnxn/target/" />
+    <ignored path="$PROJECT_DIR$/election/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumPeer.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="252">
+                    <caret line="202" column="16" selection-start-line="202" selection-start-column="16" selection-end-line="202" selection-end-column="16" />
+                    <folding>
+                      <element signature="docComment;class#QuorumPeer#0" />
+                      <element signature="e#8792#8873#0" />
+                      <element signature="e#8792#9205#0" />
+                      <element signature="e#9210#9265#0" />
+                      <element signature="e#9347#9393#0" />
+                      <element signature="e#9403#9473#0" />
+                      <element signature="e#9658#9659#0" expanded="true" />
+                      <element signature="e#9685#9686#0" expanded="true" />
+                      <element signature="e#9692#9755#0" />
+                      <element signature="e#9804#9873#0" />
+                      <element signature="e#9962#9997#0" />
+                      <element signature="e#10057#10089#0" />
+                      <element signature="e#10099#10252#0" />
+                      <element signature="e#10159#10202#1" />
+                      <element signature="e#10208#10246#1" />
+                      <element signature="e#10369#10427#0" />
+                      <element signature="e#10461#10591#0" />
+                      <element signature="e#10639#10769#0" />
+                      <element signature="e#10817#10903#0" />
+                      <element signature="e#10938#11053#0" />
+                      <element signature="e#11092#11226#0" />
+                      <element signature="e#11274#11309#0" />
+                      <element signature="e#11348#11472#0" />
+                      <element signature="e#11530#11619#0" />
+                      <element signature="e#11669#11915#0" />
+                      <element signature="e#11973#12182#0" />
+                      <element signature="e#12241#12330#0" />
+                      <element signature="e#12381#12528#0" />
+                      <element signature="e#12582#12727#0" />
+                      <element signature="e#12913#13074#0" />
+                      <element signature="e#13162#13319#0" />
+                      <element signature="e#13366#13882#0" />
+                      <element signature="e#13366#16982#0" />
+                      <element signature="e#14086#16976#0" />
+                      <element signature="e#14140#16644#0" />
+                      <element signature="e#14352#16630#1" />
+                      <element signature="e#14450#14597#1" />
+                      <element signature="e#14603#16564#1" />
+                      <element signature="e#14877#16451#0" />
+                      <element signature="e#15220#15521#0" />
+                      <element signature="e#15322#15425#0" />
+                      <element signature="e#15589#15629#0" />
+                      <element signature="e#15895#16002#0" />
+                      <element signature="e#16070#16110#0" />
+                      <element signature="e#16303#16346#0" />
+                      <element signature="e#16672#16766#0" />
+                      <element signature="e#16789#16878#0" />
+                      <element signature="e#16887#16966#0" />
+                      <element signature="e#17101#17132#0" />
+                      <element signature="e#17184#17213#0" />
+                      <element signature="e#17338#17374#0" />
+                      <element signature="e#17564#17670#0" />
+                      <element signature="e#17676#17821#0" />
+                      <element signature="e#17835#17927#0" />
+                      <element signature="e#17835#18378#0" />
+                      <element signature="e#18388#19339#0" />
+                      <element signature="e#20385#23288#0" />
+                      <element signature="e#20543#23113#0" />
+                      <element signature="e#20773#21493#0" />
+                      <element signature="e#20914#21479#1" />
+                      <element signature="e#21302#21461#1" />
+                      <element signature="e#21525#22017#0" />
+                      <element signature="e#21540#21573#0" />
+                      <element signature="e#22062#22231#1" />
+                      <element signature="e#22248#22335#0" />
+                      <element signature="e#22367#22864#0" />
+                      <element signature="e#22382#22415#0" />
+                      <element signature="e#22911#23103#1" />
+                      <element signature="e#23136#23285#0" />
+                      <element signature="e#23330#23449#0" />
+                      <element signature="e#23454#24444#0" />
+                      <element signature="e#24454#24604#0" />
+                      <element signature="e#24454#24866#0" />
+                      <element signature="e#24745#24840#1" />
+                      <element signature="e#24796#24832#1" />
+                      <element signature="e#24876#25016#0" />
+                      <element signature="e#24876#25519#0" />
+                      <element signature="e#25529#25669#0" />
+                      <element signature="e#25529#26181#0" />
+                      <element signature="e#26191#26312#0" />
+                      <element signature="e#26191#26480#0" />
+                      <element signature="e#26386#26422#1" />
+                      <element signature="e#26577#26815#0" />
+                      <element signature="e#26826#27055#0" />
+                      <element signature="e#27065#27303#0" />
+                      <element signature="e#28216#28457#0" />
+                      <element signature="e#28352#28415#1" />
+                      <element signature="e#28518#28551#0" />
+                      <element signature="e#28618#28655#0" />
+                      <element signature="e#28726#28763#0" />
+                      <element signature="e#28769#29036#0" />
+                      <element signature="e#29238#30194#0" />
+                      <element signature="e#30215#30316#0" />
+                      <element signature="e#30600#33010#1" />
+                      <element signature="e#31055#31111#0" />
+                      <element signature="e#31566#31924#0" />
+                      <element signature="e#31795#31890#1" />
+                      <element signature="e#31956#32115#0" />
+                      <element signature="e#32136#32264#0" />
+                      <element signature="e#32350#32545#0" />
+                      <element signature="e#32566#32720#0" />
+                      <element signature="e#32729#32988#0" />
+                      <element signature="e#32759#32813#0" />
+                      <element signature="e#33016#33394#1" />
+                      <element signature="e#33046#33196#0" />
+                      <element signature="e#33217#33372#0" />
+                      <element signature="e#33478#33661#0" />
+                      <element signature="e#33682#33790#0" />
+                      <element signature="e#33799#33969#0" />
+                      <element signature="e#34053#34235#0" />
+                      <element signature="e#34256#34339#0" />
+                      <element signature="e#34348#34518#0" />
+                      <element signature="e#34641#34803#0" />
+                      <element signature="e#34824#34907#0" />
+                      <element signature="e#34916#35180#0" />
+                      <element signature="e#34962#35099#1" />
+                      <element signature="e#35331#35407#0" />
+                      <element signature="e#35428#35505#0" />
+                      <element signature="e#35598#36185#0" />
+                      <element signature="e#35676#35740#1" />
+                      <element signature="e#35771#35815#1" />
+                      <element signature="e#35878#35920#1" />
+                      <element signature="e#35966#36045#1" />
+                      <element signature="e#36058#36095#0" />
+                      <element signature="e#36119#36179#0" />
+                      <element signature="e#36191#36295#0" />
+                      <element signature="e#36351#36352#0" expanded="true" />
+                      <element signature="e#36419#36420#0" expanded="true" />
+                      <element signature="e#36426#36532#0" />
+                      <element signature="e#36594#36595#0" expanded="true" />
+                      <element signature="e#36655#36656#0" expanded="true" />
+                      <element signature="e#36662#37084#0" />
+                      <element signature="e#36931#37058#1" />
+                      <element signature="e#36989#37048#1" />
+                      <element signature="e#37090#37146#0" />
+                      <element signature="e#37090#37600#0" />
+                      <element signature="e#37430#37566#1" />
+                      <element signature="e#37497#37556#1" />
+                      <element signature="e#37610#37819#0" />
+                      <element signature="e#37929#37986#0" />
+                      <element signature="e#38703#39152#0" />
+                      <element signature="e#38768#39095#0" />
+                      <element signature="e#39159#39209#0" />
+                      <element signature="e#39270#39320#0" />
+                      <element signature="e#39395#39457#0" />
+                      <element signature="e#39525#39587#0" />
+                      <element signature="e#39525#39720#0" />
+                      <element signature="e#39726#39796#0" />
+                      <element signature="e#39726#40003#0" />
+                      <element signature="e#39916#39950#1" />
+                      <element signature="e#40013#40059#0" />
+                      <element signature="e#40186#40232#0" />
+                      <element signature="e#40186#40377#0" />
+                      <element signature="e#40383#40429#0" />
+                      <element signature="e#40557#40603#0" />
+                      <element signature="e#40557#40748#0" />
+                      <element signature="e#40754#40844#0" />
+                      <element signature="e#40914#41004#0" />
+                      <element signature="e#40914#41143#0" />
+                      <element signature="e#41149#41188#0" />
+                      <element signature="e#41252#41299#0" />
+                      <element signature="e#41252#41395#0" />
+                      <element signature="e#41463#41511#0" />
+                      <element signature="e#41521#41573#0" />
+                      <element signature="e#41619#41654#0" />
+                      <element signature="e#41668#41704#0" />
+                      <element signature="e#41774#41810#0" />
+                      <element signature="e#41913#41986#0" />
+                      <element signature="e#42076#42137#0" />
+                      <element signature="e#42076#42437#0" />
+                      <element signature="e#42230#42374#1" />
+                      <element signature="e#42380#42431#1" />
+                      <element signature="e#42447#42516#0" />
+                      <element signature="e#42622#42663#0" />
+                      <element signature="e#42739#42780#0" />
+                      <element signature="e#42977#43108#0" />
+                      <element signature="e#43507#43571#0" />
+                      <element signature="e#43763#43834#0" />
+                      <element signature="e#44213#44636#0" />
+                      <element signature="e#44425#44493#0" />
+                      <element signature="e#44525#44595#0" />
+                      <element signature="e#44604#44630#0" />
+                      <element signature="e#44930#45199#0" />
+                      <element signature="e#44930#46193#0" />
+                      <element signature="e#45533#45650#0" />
+                      <element signature="e#45673#45960#0" />
+                      <element signature="e#45749#45813#0" />
+                      <element signature="e#45969#46187#0" />
+                      <element signature="e#45997#46177#1" />
+                      <element signature="e#46015#46075#0" />
+                      <element signature="e#46199#46367#0" />
+                      <element signature="e#46276#46341#1" />
+                      <element signature="e#46371#46544#0" />
+                      <element signature="e#46450#46517#1" />
+                      <element signature="e#46548#46676#0" />
+                      <element signature="e#46680#46808#0" />
+                      <element signature="e#46814#46980#0" />
+                      <element signature="e#46814#47375#0" />
+                      <element signature="e#47146#47369#1" />
+                      <element signature="e#47381#47623#0" />
+                      <element signature="e#47629#47877#0" />
+                      <element signature="e#47883#48216#0" />
+                      <element signature="e#48009#48086#1" />
+                      <element signature="e#48092#48210#1" />
+                      <element signature="e#48222#48455#0" />
+                      <element signature="e#48461#48700#0" />
+                      <element signature="e#48706#48939#0" />
+                      <element signature="e#48945#49220#0" />
+                      <element signature="e#49070#49135#1" />
+                      <element signature="e#49692#49731#0" />
+                      <element signature="e#50272#50435#0" />
+                      <element signature="e#50555#50633#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumCnxManager.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="218">
+                    <caret line="850" column="39" lean-forward="true" selection-start-line="850" selection-start-column="39" selection-end-line="850" selection-end-column="39" />
+                    <folding>
+                      <element signature="docComment;class#QuorumCnxManager#0" />
+                      <element signature="e#5307#5516#0" />
+                      <element signature="e#5354#5464#0" />
+                      <element signature="e#6386#6448#1" />
+                      <element signature="e#6830#8283#0" />
+                      <element signature="e#7247#7373#1" />
+                      <element signature="e#8289#8381#0" />
+                      <element signature="e#8484#8554#1" />
+                      <element signature="e#8779#8943#0" />
+                      <element signature="e#8779#9346#0" />
+                      <element signature="e#9028#9079#0" />
+                      <element signature="e#9102#9340#0" />
+                      <element signature="e#9352#9487#0" />
+                      <element signature="e#9352#10524#0" />
+                      <element signature="e#9608#9920#1" />
+                      <element signature="e#9622#9674#0" />
+                      <element signature="e#9933#10098#0" />
+                      <element signature="e#10119#10518#0" />
+                      <element signature="e#10133#10200#0" />
+                      <element signature="e#10530#10598#0" />
+                      <element signature="e#10530#11129#0" />
+                      <element signature="e#10728#10913#0" />
+                      <element signature="e#10923#11123#0" />
+                      <element signature="e#10976#11038#0" />
+                      <element signature="e#11047#11113#0" />
+                      <element signature="e#11309#11600#0" />
+                      <element signature="e#11623#11769#0" />
+                      <element signature="e#11961#12201#1" />
+                      <element signature="e#12207#12842#1" />
+                      <element signature="e#12586#12716#1" />
+                      <element signature="e#12876#13183#0" />
+                      <element signature="e#12876#13664#0" />
+                      <element signature="e#13287#13448#0" />
+                      <element signature="e#13471#13658#0" />
+                      <element signature="e#13670#13783#0" />
+                      <element signature="e#13670#14235#0" />
+                      <element signature="e#13856#14021#0" />
+                      <element signature="e#14042#14229#0" />
+                      <element signature="e#14241#14314#0" />
+                      <element signature="e#14241#14710#0" />
+                      <element signature="e#14433#14610#0" />
+                      <element signature="e#17906#18031#0" />
+                      <element signature="e#17906#19144#0" />
+                      <element signature="e#18211#18410#1" />
+                      <element signature="e#18416#19138#1" />
+                      <element signature="e#18568#18799#1" />
+                      <element signature="e#18805#19081#1" />
+                      <element signature="e#18914#18978#1" />
+                      <element signature="e#18984#19066#1" />
+                      <element signature="e#19154#19263#0" />
+                      <element signature="e#19514#19608#1" />
+                      <element signature="e#19625#20401#0" />
+                      <element signature="e#19909#19965#0" />
+                      <element signature="e#20236#20311#1" />
+                      <element signature="e#20317#20387#1" />
+                      <element signature="e#20439#21098#0" />
+                      <element signature="e#20457#20508#0" />
+                      <element signature="e#20834#20881#0" />
+                      <element signature="e#20979#21059#1" />
+                      <element signature="e#21121#21642#0" />
+                      <element signature="e#21290#21357#0" />
+                      <element signature="e#21548#21628#1" />
+                      <element signature="e#21658#21743#1" />
+                      <element signature="e#21764#21858#0" />
+                      <element signature="e#22101#22200#0" />
+                      <element signature="e#22101#22480#0" />
+                      <element signature="e#22306#22451#1" />
+                      <element signature="e#22397#22441#1" />
+                      <element signature="e#22486#22579#0" />
+                      <element signature="e#22486#22948#0" />
+                      <element signature="e#22811#22865#1" />
+                      <element signature="e#22957#23012#0" />
+                      <element signature="e#22957#23187#0" />
+                      <element signature="e#23097#23181#1" />
+                      <element signature="e#23193#23313#0" />
+                      <element signature="e#23193#23462#0" />
+                      <element signature="e#23468#23584#0" />
+                      <element signature="e#23468#23773#0" />
+                      <element signature="e#23641#23678#0" />
+                      <element signature="e#23702#23767#0" />
+                      <element signature="e#23779#23829#0" />
+                      <element signature="e#23908#23974#0" />
+                      <element signature="e#24073#24155#0" />
+                      <element signature="e#24251#24299#0" />
+                      <element signature="e#24251#27946#0" />
+                      <element signature="e#24403#24585#0" />
+                      <element signature="e#24435#24497#0" />
+                      <element signature="e#24595#24641#0" />
+                      <element signature="e#25581#26479#1" />
+                      <element signature="e#25838#25882#0" />
+                      <element signature="e#26241#26328#1" />
+                      <element signature="e#26334#26416#1" />
+                      <element signature="e#26520#27065#0" />
+                      <element signature="e#26643#26746#0" />
+                      <element signature="e#26770#26863#0" />
+                      <element signature="e#26896#27047#0" />
+                      <element signature="e#27149#27428#1" />
+                      <element signature="e#27456#27510#0" />
+                      <element signature="e#27456#27940#0" />
+                      <element signature="e#27547#27820#0" />
+                      <element signature="e#27642#27806#1" />
+                      <element signature="e#27842#27930#0" />
+                      <element signature="e#27952#28134#0" />
+                      <element signature="e#28333#28629#0" />
+                      <element signature="e#28333#29152#0" />
+                      <element signature="e#28819#28903#0" />
+                      <element signature="e#28926#29080#0" />
+                      <element signature="e#29274#29398#0" />
+                      <element signature="e#29446#29488#0" />
+                      <element signature="e#29584#29655#1" />
+                      <element signature="e#29693#29830#1" />
+                      <element signature="e#30002#30054#1" />
+                      <element signature="e#30094#30186#1" />
+                      <element signature="e#30330#30785#0" />
+                      <element signature="e#30458#30537#0" />
+                      <element signature="e#30574#30673#0" />
+                      <element signature="e#30795#33518#0" />
+                      <element signature="e#30890#32040#0" />
+                      <element signature="e#31776#32026#1" />
+                      <element signature="e#31872#32008#1" />
+                      <element signature="e#32063#32193#0" />
+                      <element signature="e#32223#33208#0" />
+                      <element signature="e#32286#33194#1" />
+                      <element signature="e#32354#33002#0" />
+                      <element signature="e#32512#32619#1" />
+                      <element signature="e#32625#32820#1" />
+                      <element signature="e#32859#32980#1" />
+                      <element signature="e#33034#33176#0" />
+                      <element signature="e#33229#33429#0" />
+                      <element signature="e#33530#33687#0" />
+                      <element signature="e#33530#36362#0" />
+                      <element signature="e#33888#34440#0" />
+                      <element signature="e#34128#34251#0" />
+                      <element signature="e#34274#34430#0" />
+                      <element signature="e#34458#34573#0" />
+                      <element signature="e#34458#34926#0" />
+                      <element signature="e#34638#34775#1" />
+                      <element signature="e#34936#36356#0" />
+                      <element signature="e#35031#35961#0" />
+                      <element signature="e#35094#35947#1" />
+                      <element signature="e#35360#35553#1" />
+                      <element signature="e#35982#36147#0" />
+                      <element signature="e#36156#36346#0" />
+                      <element signature="e#36274#36332#1" />
+                      <element signature="e#36368#37286#0" />
+                      <element signature="e#36368#37952#0" />
+                      <element signature="e#37432#37733#1" />
+                      <element signature="e#37450#37497#0" />
+                      <element signature="e#37532#37723#0" />
+                      <element signature="e#37746#37788#0" />
+                      <element signature="e#37822#37946#0" />
+                      <element signature="e#37958#38131#0" />
+                      <element signature="e#38252#38510#0" />
+                      <element signature="e#38252#38701#0" />
+                      <element signature="e#38707#39794#0" />
+                      <element signature="e#38707#40521#0" />
+                      <element signature="e#39873#40515#0" />
+                      <element signature="e#39927#40266#1" />
+                      <element signature="e#39949#40008#0" />
+                      <element signature="e#40043#40252#0" />
+                      <element signature="e#40283#40334#0" />
+                      <element signature="e#40368#40505#0" />
+                      <element signature="e#40527#40788#0" />
+                      <element signature="e#40527#40938#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="259">
+                    <caret line="179" column="22" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+                    <folding>
+                      <element signature="e#4796#4797#0" expanded="true" />
+                      <element signature="e#4863#4864#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="259">
+                    <caret line="1122" column="35" selection-start-line="1122" selection-start-column="35" selection-end-line="1122" selection-end-column="35" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="430">
+                    <caret line="446" column="63" lean-forward="true" selection-start-line="446" selection-start-column="63" selection-end-line="446" selection-end-column="63" />
+                    <folding>
+                      <element signature="docComment;class#FastLeaderElection#0" />
+                      <element signature="docComment;field#finalizeWait#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;field#maxNotificationInterval#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;field#manager#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;class#Notification#0;class#FastLeaderElection#0" />
+                      <element signature="class#Notification#0;class#FastLeaderElection#0" />
+                      <element signature="method#toString#0;class#Notification#0;class#FastLeaderElection#0" />
+                      <element signature="method#buildMsg#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;class#ToSend#0;class#FastLeaderElection#0" />
+                      <element signature="class#mType#0;class#ToSend#0;class#FastLeaderElection#0" />
+                      <element signature="method#ToSend#0;class#ToSend#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;class#WorkerReceiver#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="method#WorkerReceiver#0;class#WorkerReceiver#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="e#10747#10851#1" />
+                      <element signature="e#10857#11158#1" />
+                      <element signature="e#10914#11046#1" />
+                      <element signature="e#11599#11684#1" />
+                      <element signature="e#11919#13051#1" />
+                      <element signature="e#12423#13021#1" />
+                      <element signature="e#13057#15541#1" />
+                      <element signature="e#13471#15511#1" />
+                      <element signature="e#13533#13982#1" />
+                      <element signature="e#14127#14755#1" />
+                      <element signature="e#14761#15416#1" />
+                      <element signature="e#15621#15790#0" />
+                      <element signature="docComment;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="method#WorkerSender#0;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="e#16638#16692#0" />
+                      <element signature="docComment;method#process#0;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#queueEmpty#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#Messenger#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="method#Messenger#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#halt#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="method#halt#0;class#Messenger#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#getLogicalClock#0;class#FastLeaderElection#0" />
+                      <element signature="n#!!block;n#getLogicalClock#0;n#FastLeaderElection#0" />
+                      <element signature="docComment;method#FastLeaderElection#0;class#FastLeaderElection#0" />
+                      <element signature="method#FastLeaderElection#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#starter#0;class#FastLeaderElection#0" />
+                      <element signature="method#starter#0;class#FastLeaderElection#0" />
+                      <element signature="method#leaveInstance#0;class#FastLeaderElection#0" />
+                      <element signature="e#20204#20450#1" />
+                      <element signature="n#!!block;n#getCnxManager#0;n#FastLeaderElection#0" />
+                      <element signature="method#shutdown#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#sendNotifications#0;class#FastLeaderElection#0" />
+                      <element signature="method#printNotification#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#totalOrderPredicate#0;class#FastLeaderElection#0" />
+                      <element signature="method#totalOrderPredicate#0;class#FastLeaderElection#0" />
+                      <element signature="e#22535#22572#1" />
+                      <element signature="docComment;method#termPredicate#0;class#FastLeaderElection#0" />
+                      <element signature="method#termPredicate#0;class#FastLeaderElection#0" />
+                      <element signature="e#23777#23891#1" />
+                      <element signature="e#23825#23881#1" />
+                      <element signature="docComment;method#checkLeader#0;class#FastLeaderElection#0" />
+                      <element signature="method#checkLeader#0;class#FastLeaderElection#0" />
+                      <element signature="e#24918#25082#1" />
+                      <element signature="e#25122#25164#1" />
+                      <element signature="docComment;method#ooePredicate#0;class#FastLeaderElection#0" />
+                      <element signature="method#ooePredicate#0;class#FastLeaderElection#0" />
+                      <element signature="method#updateProposal#0;class#FastLeaderElection#0" />
+                      <element signature="e#26316#26571#1" />
+                      <element signature="n#!!block;n#getVote#0;n#FastLeaderElection#0" />
+                      <element signature="docComment;method#learningState#0;class#FastLeaderElection#0" />
+                      <element signature="method#learningState#0;class#FastLeaderElection#0" />
+                      <element signature="e#27083#27197#1" />
+                      <element signature="e#27210#27322#1" />
+                      <element signature="docComment;method#getInitId#0;class#FastLeaderElection#0" />
+                      <element signature="method#getInitId#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#getInitLastLoggedZxid#0;class#FastLeaderElection#0" />
+                      <element signature="method#getInitLastLoggedZxid#0;class#FastLeaderElection#0" />
+                      <element signature="docComment;method#getPeerEpoch#0;class#FastLeaderElection#0" />
+                      <element signature="method#getPeerEpoch#0;class#FastLeaderElection#0" />
+                      <element signature="e#28082#28135#0" />
+                      <element signature="e#28157#28306#0" />
+                      <element signature="docComment;method#lookForLeader#0;class#FastLeaderElection#0" />
+                      <element signature="e#28629#28829#0" />
+                      <element signature="e#28850#28964#0" />
+                      <element signature="e#28998#29065#1" />
+                      <element signature="e#29300#29433#0" />
+                      <element signature="e#30908#37945#1" />
+                      <element signature="e#31106#37927#0" />
+                      <element signature="e#31286#31970#1" />
+                      <element signature="e#31566#31676#1" />
+                      <element signature="e#31682#31895#1" />
+                      <element signature="e#32012#32454#1" />
+                      <element signature="e#32066#32393#1" />
+                      <element signature="e#32593#32744#1" />
+                      <element signature="e#32794#33151#1" />
+                      <element signature="e#33449#34879#1" />
+                      <element signature="e#33672#34007#1" />
+                      <element signature="e#33845#33977#1" />
+                      <element signature="e#34269#34853#1" />
+                      <element signature="e#35348#36278#1" />
+                      <element signature="e#35730#36252#1" />
+                      <element signature="e#36991#37671#1" />
+                      <element signature="e#37039#37292#0" />
+                      <element signature="e#37951#38058#1" />
+                      <element signature="e#38116#38621#0" />
+                      <element signature="e#38134#38340#0" />
+                      <element signature="e#38190#38326#1" />
+                      <element signature="e#38361#38438#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="208">
+                    <caret line="98" column="6" lean-forward="true" selection-start-line="98" selection-start-column="6" selection-end-line="98" selection-end-column="6" />
+                    <folding>
+                      <element signature="e#2979#2980#0" expanded="true" />
+                      <element signature="e#3009#3010#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/Vote.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="397">
+                    <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+                    <folding>
+                      <element signature="e#4541#4542#0" expanded="true" />
+                      <element signature="e#4581#4582#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/TestInterflow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumCnxManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="86" column="15" lean-forward="true" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+              <folding>
+                <element signature="docComment;class#QuorumCnxManager#0" />
+                <element signature="method#setSockOpts#0;class#QuorumCnxManager#0" />
+                <element signature="method#initiateConnection#0;class#QuorumCnxManager#0" />
+                <element signature="method#toSend#0;class#QuorumCnxManager#0" />
+                <element signature="method#addToRecvQueue#0;class#QuorumCnxManager#0" />
+                <element signature="method#addToQueue#0;class#QuorumCnxManager#0" />
+                <element signature="method#SendWorker#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+                <element signature="method#send#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+                <element signature="method#run#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+                <element signature="class#RecvWorker#0;class#QuorumCnxManager#0" />
+                <element signature="method#RecvWorker#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+                <element signature="docComment;method#finish#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+                <element signature="method#finish#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+                <element signature="method#run#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+                <element signature="class#Message#0;class#QuorumCnxManager#0" />
+                <element signature="method#Message#0;class#Message#0;class#QuorumCnxManager#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="1489" column="29" selection-start-line="1489" selection-start-column="29" selection-end-line="1489" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.println</find>
+      <find>outgoingBuffers</find>
+      <find>packet</find>
+      <find>int count =</find>
+      <find>channelHandler</find>
+      <find>channel</find>
+      <find>netty</find>
+      <find>java.version</find>
+      <find>electionAlg</find>
+      <find>com.hekrxe</find>
+      <find>n</find>
+      <find>recvQueue</find>
+      <find>qcm</find>
+      <find>learnerType</find>
+      <find>self</find>
+      <find>manager</find>
+      <find>manager`</find>
+      <find>recvqueue</find>
+      <find>view</find>
+      <find>RecvWorker</find>
+      <find>pollSendQueue</find>
+      <find>lastMessageSent</find>
+      <find>queueSendMap</find>
+      <find>senderWorkerMap</find>
+      <find>senderWorkerMap.r</find>
+      <find>initiateConnection</find>
+      <find>sendqueue</find>
+      <find>senderWorkerMap.re</find>
+      <find>Clo</find>
+      <find>There is a connection</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>com.hekrxe.sz</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/cnxn</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/hkr/sz/d/EmbededZookpper.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/hkr/sz/d/EmbededZookepper.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/hkr/sz/d/EmbededZookeeper.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/ServerCnxnFactory.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/hkr/sz/d/EmbeddedZookeeper.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/Main.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/nio/NIOServerCnxnFactory.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/Client.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/nio/NIOServerCnxn.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/netty/NettyServerCnxnFactory.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/test/Main.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/test/Server.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/netty/NettyServerCnxn.java" />
+        <option value="$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/test/Client.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cnxn/pom.xml" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/ServerState.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/Vote.java" />
+        <option value="$PROJECT_DIR$/election/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/Election.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/LearnerType.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumServer.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumCnxManager.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/Test.java" />
+        <option value="$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/TestInterflow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-226" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study-zookeeper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-zookeeper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestInterflow">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkx.sz.cnxn.test.Client" />
+      <module name="cnxn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkx.sz.cnxn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkx.sz.cnxn.test.Server" />
+      <module name="cnxn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkx.sz.cnxn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkx.sz.common.ServerState" />
+      <module name="common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkx.sz.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkx.sz.election.Test" />
+      <module name="election" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkx.sz.election.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hkx.sz.election.TestInterflow" />
+      <module name="election" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hkx.sz.election.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestInterflow" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ServerState" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../awesome-play" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-226" y="-1080" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17891374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5792079" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40693069" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="SBT Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17571884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42487046" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="SBT Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/ZooKeeperServerListenerImpl.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumPeerMain.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/PrepRequestProcessor.java</url>
+          <line>535</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/FinalRequestProcessor.java</url>
+          <line>317</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/FinalRequestProcessor.java</url>
+          <line>335</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumCnxManager.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="new String(si.request.array(),&quot;UTF-8&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>new String(si.request.array(),&quot;UTF-8&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cnxn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/netty/NettyServerCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1988#1989#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/netty/NettyServerCnxnFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/nio/NIOServerCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="188" column="26" selection-start-line="188" selection-start-column="26" selection-end-line="188" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/nio/NIOServerCnxnFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/test/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/test/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnxn/src/main/java/com/hkx/sz/cnxn/ServerCnxnFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/hkr/sz/d/EmbeddedZookeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/ZooKeeperServerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/jmx/ManagedUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/LeaderElection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="145" column="14" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+          <folding>
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#1969#1970#0" expanded="true" />
+            <element signature="method#countVotes#0;class#LeaderElection#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/hkx/sz/common/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/hkx/sz/common/ServerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/hkx/sz/common/Vote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="168" column="25" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
+          <folding>
+            <element signature="e#6986#6987#0" expanded="true" />
+            <element signature="e#7035#7036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="409" column="19" selection-start-line="409" selection-start-column="19" selection-end-line="409" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/AuthFastLeaderElection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="771" column="59" selection-start-line="771" selection-start-column="59" selection-end-line="771" selection-end-column="59" />
+          <folding>
+            <element signature="class#Notification#0;class#AuthFastLeaderElection#0" />
+            <element signature="class#ToSend#0;class#AuthFastLeaderElection#0" />
+            <element signature="class#WorkerReceiver#0;class#Messenger#0;class#AuthFastLeaderElection#0" />
+            <element signature="class#WorkerSender#0;class#Messenger#0;class#AuthFastLeaderElection#0" />
+            <element signature="method#genChallenge#0;class#WorkerSender#0;class#Messenger#0;class#AuthFastLeaderElection#0" />
+            <element signature="method#queueEmpty#0;class#Messenger#0;class#AuthFastLeaderElection#0" />
+            <element signature="method#Messenger#0;class#Messenger#0;class#AuthFastLeaderElection#0" />
+            <element signature="e#28975#28976#0" expanded="true" />
+            <element signature="e#29004#29005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="933" column="13" selection-start-line="933" selection-start-column="13" selection-end-line="933" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumPeerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/DatagramSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="269" column="11" selection-start-line="269" selection-start-column="11" selection-end-line="269" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/AbstractPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="608" column="19" selection-start-line="608" selection-start-column="19" selection-end-line="608" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="415" column="11" selection-start-line="415" selection-start-column="11" selection-end-line="415" selection-end-column="11" />
+          <folding>
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/Election.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/ZooKeeperThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="method#toString#0;class#QuorumStats#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/Election.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/Vote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+          <folding>
+            <element signature="e#4541#4542#0" expanded="true" />
+            <element signature="e#4581#4582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumPeerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="227" column="43" selection-start-line="227" selection-start-column="43" selection-end-line="227" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1293">
+          <caret line="1446" column="18" selection-start-line="1446" selection-start-column="17" selection-end-line="1446" selection-end-column="18" />
+          <folding>
+            <element signature="e#59713#59714#0" expanded="true" />
+            <element signature="e#59760#59761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/LearnerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="1122" column="35" selection-start-line="1122" selection-start-column="35" selection-end-line="1122" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="179" column="22" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+          <folding>
+            <element signature="e#4796#4797#0" expanded="true" />
+            <element signature="e#4863#4864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/SocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="111" column="70" selection-start-line="111" selection-start-column="63" selection-end-line="111" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="465" column="15" selection-start-line="465" selection-start-column="15" selection-end-line="465" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumPeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="202" column="16" selection-start-line="202" selection-start-column="16" selection-end-line="202" selection-end-column="16" />
+          <folding>
+            <element signature="docComment;class#QuorumPeer#0" />
+            <element signature="e#8792#8873#0" />
+            <element signature="e#8792#9205#0" />
+            <element signature="e#9210#9265#0" />
+            <element signature="e#9347#9393#0" />
+            <element signature="e#9403#9473#0" />
+            <element signature="e#9658#9659#0" expanded="true" />
+            <element signature="e#9685#9686#0" expanded="true" />
+            <element signature="e#9692#9755#0" />
+            <element signature="e#9804#9873#0" />
+            <element signature="e#9962#9997#0" />
+            <element signature="e#10057#10089#0" />
+            <element signature="e#10099#10252#0" />
+            <element signature="e#10159#10202#1" />
+            <element signature="e#10208#10246#1" />
+            <element signature="e#10369#10427#0" />
+            <element signature="e#10461#10591#0" />
+            <element signature="e#10639#10769#0" />
+            <element signature="e#10817#10903#0" />
+            <element signature="e#10938#11053#0" />
+            <element signature="e#11092#11226#0" />
+            <element signature="e#11274#11309#0" />
+            <element signature="e#11348#11472#0" />
+            <element signature="e#11530#11619#0" />
+            <element signature="e#11669#11915#0" />
+            <element signature="e#11973#12182#0" />
+            <element signature="e#12241#12330#0" />
+            <element signature="e#12381#12528#0" />
+            <element signature="e#12582#12727#0" />
+            <element signature="e#12913#13074#0" />
+            <element signature="e#13162#13319#0" />
+            <element signature="e#13366#13882#0" />
+            <element signature="e#13366#16982#0" />
+            <element signature="e#14086#16976#0" />
+            <element signature="e#14140#16644#0" />
+            <element signature="e#14352#16630#1" />
+            <element signature="e#14450#14597#1" />
+            <element signature="e#14603#16564#1" />
+            <element signature="e#14877#16451#0" />
+            <element signature="e#15220#15521#0" />
+            <element signature="e#15322#15425#0" />
+            <element signature="e#15589#15629#0" />
+            <element signature="e#15895#16002#0" />
+            <element signature="e#16070#16110#0" />
+            <element signature="e#16303#16346#0" />
+            <element signature="e#16672#16766#0" />
+            <element signature="e#16789#16878#0" />
+            <element signature="e#16887#16966#0" />
+            <element signature="e#17101#17132#0" />
+            <element signature="e#17184#17213#0" />
+            <element signature="e#17338#17374#0" />
+            <element signature="e#17564#17670#0" />
+            <element signature="e#17676#17821#0" />
+            <element signature="e#17835#17927#0" />
+            <element signature="e#17835#18378#0" />
+            <element signature="e#18388#19339#0" />
+            <element signature="e#20385#23288#0" />
+            <element signature="e#20543#23113#0" />
+            <element signature="e#20773#21493#0" />
+            <element signature="e#20914#21479#1" />
+            <element signature="e#21302#21461#1" />
+            <element signature="e#21525#22017#0" />
+            <element signature="e#21540#21573#0" />
+            <element signature="e#22062#22231#1" />
+            <element signature="e#22248#22335#0" />
+            <element signature="e#22367#22864#0" />
+            <element signature="e#22382#22415#0" />
+            <element signature="e#22911#23103#1" />
+            <element signature="e#23136#23285#0" />
+            <element signature="e#23330#23449#0" />
+            <element signature="e#23454#24444#0" />
+            <element signature="e#24454#24604#0" />
+            <element signature="e#24454#24866#0" />
+            <element signature="e#24745#24840#1" />
+            <element signature="e#24796#24832#1" />
+            <element signature="e#24876#25016#0" />
+            <element signature="e#24876#25519#0" />
+            <element signature="e#25529#25669#0" />
+            <element signature="e#25529#26181#0" />
+            <element signature="e#26191#26312#0" />
+            <element signature="e#26191#26480#0" />
+            <element signature="e#26386#26422#1" />
+            <element signature="e#26577#26815#0" />
+            <element signature="e#26826#27055#0" />
+            <element signature="e#27065#27303#0" />
+            <element signature="e#28216#28457#0" />
+            <element signature="e#28352#28415#1" />
+            <element signature="e#28518#28551#0" />
+            <element signature="e#28618#28655#0" />
+            <element signature="e#28726#28763#0" />
+            <element signature="e#28769#29036#0" />
+            <element signature="e#29238#30194#0" />
+            <element signature="e#30215#30316#0" />
+            <element signature="e#30600#33010#1" />
+            <element signature="e#31055#31111#0" />
+            <element signature="e#31566#31924#0" />
+            <element signature="e#31795#31890#1" />
+            <element signature="e#31956#32115#0" />
+            <element signature="e#32136#32264#0" />
+            <element signature="e#32350#32545#0" />
+            <element signature="e#32566#32720#0" />
+            <element signature="e#32729#32988#0" />
+            <element signature="e#32759#32813#0" />
+            <element signature="e#33016#33394#1" />
+            <element signature="e#33046#33196#0" />
+            <element signature="e#33217#33372#0" />
+            <element signature="e#33478#33661#0" />
+            <element signature="e#33682#33790#0" />
+            <element signature="e#33799#33969#0" />
+            <element signature="e#34053#34235#0" />
+            <element signature="e#34256#34339#0" />
+            <element signature="e#34348#34518#0" />
+            <element signature="e#34641#34803#0" />
+            <element signature="e#34824#34907#0" />
+            <element signature="e#34916#35180#0" />
+            <element signature="e#34962#35099#1" />
+            <element signature="e#35331#35407#0" />
+            <element signature="e#35428#35505#0" />
+            <element signature="e#35598#36185#0" />
+            <element signature="e#35676#35740#1" />
+            <element signature="e#35771#35815#1" />
+            <element signature="e#35878#35920#1" />
+            <element signature="e#35966#36045#1" />
+            <element signature="e#36058#36095#0" />
+            <element signature="e#36119#36179#0" />
+            <element signature="e#36191#36295#0" />
+            <element signature="e#36351#36352#0" expanded="true" />
+            <element signature="e#36419#36420#0" expanded="true" />
+            <element signature="e#36426#36532#0" />
+            <element signature="e#36594#36595#0" expanded="true" />
+            <element signature="e#36655#36656#0" expanded="true" />
+            <element signature="e#36662#37084#0" />
+            <element signature="e#36931#37058#1" />
+            <element signature="e#36989#37048#1" />
+            <element signature="e#37090#37146#0" />
+            <element signature="e#37090#37600#0" />
+            <element signature="e#37430#37566#1" />
+            <element signature="e#37497#37556#1" />
+            <element signature="e#37610#37819#0" />
+            <element signature="e#37929#37986#0" />
+            <element signature="e#38703#39152#0" />
+            <element signature="e#38768#39095#0" />
+            <element signature="e#39159#39209#0" />
+            <element signature="e#39270#39320#0" />
+            <element signature="e#39395#39457#0" />
+            <element signature="e#39525#39587#0" />
+            <element signature="e#39525#39720#0" />
+            <element signature="e#39726#39796#0" />
+            <element signature="e#39726#40003#0" />
+            <element signature="e#39916#39950#1" />
+            <element signature="e#40013#40059#0" />
+            <element signature="e#40186#40232#0" />
+            <element signature="e#40186#40377#0" />
+            <element signature="e#40383#40429#0" />
+            <element signature="e#40557#40603#0" />
+            <element signature="e#40557#40748#0" />
+            <element signature="e#40754#40844#0" />
+            <element signature="e#40914#41004#0" />
+            <element signature="e#40914#41143#0" />
+            <element signature="e#41149#41188#0" />
+            <element signature="e#41252#41299#0" />
+            <element signature="e#41252#41395#0" />
+            <element signature="e#41463#41511#0" />
+            <element signature="e#41521#41573#0" />
+            <element signature="e#41619#41654#0" />
+            <element signature="e#41668#41704#0" />
+            <element signature="e#41774#41810#0" />
+            <element signature="e#41913#41986#0" />
+            <element signature="e#42076#42137#0" />
+            <element signature="e#42076#42437#0" />
+            <element signature="e#42230#42374#1" />
+            <element signature="e#42380#42431#1" />
+            <element signature="e#42447#42516#0" />
+            <element signature="e#42622#42663#0" />
+            <element signature="e#42739#42780#0" />
+            <element signature="e#42977#43108#0" />
+            <element signature="e#43507#43571#0" />
+            <element signature="e#43763#43834#0" />
+            <element signature="e#44213#44636#0" />
+            <element signature="e#44425#44493#0" />
+            <element signature="e#44525#44595#0" />
+            <element signature="e#44604#44630#0" />
+            <element signature="e#44930#45199#0" />
+            <element signature="e#44930#46193#0" />
+            <element signature="e#45533#45650#0" />
+            <element signature="e#45673#45960#0" />
+            <element signature="e#45749#45813#0" />
+            <element signature="e#45969#46187#0" />
+            <element signature="e#45997#46177#1" />
+            <element signature="e#46015#46075#0" />
+            <element signature="e#46199#46367#0" />
+            <element signature="e#46276#46341#1" />
+            <element signature="e#46371#46544#0" />
+            <element signature="e#46450#46517#1" />
+            <element signature="e#46548#46676#0" />
+            <element signature="e#46680#46808#0" />
+            <element signature="e#46814#46980#0" />
+            <element signature="e#46814#47375#0" />
+            <element signature="e#47146#47369#1" />
+            <element signature="e#47381#47623#0" />
+            <element signature="e#47629#47877#0" />
+            <element signature="e#47883#48216#0" />
+            <element signature="e#48009#48086#1" />
+            <element signature="e#48092#48210#1" />
+            <element signature="e#48222#48455#0" />
+            <element signature="e#48461#48700#0" />
+            <element signature="e#48706#48939#0" />
+            <element signature="e#48945#49220#0" />
+            <element signature="e#49070#49135#1" />
+            <element signature="e#49692#49731#0" />
+            <element signature="e#50272#50435#0" />
+            <element signature="e#50555#50633#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="446" column="63" lean-forward="true" selection-start-line="446" selection-start-column="63" selection-end-line="446" selection-end-column="63" />
+          <folding>
+            <element signature="docComment;class#FastLeaderElection#0" />
+            <element signature="docComment;field#finalizeWait#0;class#FastLeaderElection#0" />
+            <element signature="docComment;field#maxNotificationInterval#0;class#FastLeaderElection#0" />
+            <element signature="docComment;field#manager#0;class#FastLeaderElection#0" />
+            <element signature="docComment;class#Notification#0;class#FastLeaderElection#0" />
+            <element signature="class#Notification#0;class#FastLeaderElection#0" />
+            <element signature="method#toString#0;class#Notification#0;class#FastLeaderElection#0" />
+            <element signature="method#buildMsg#0;class#FastLeaderElection#0" />
+            <element signature="docComment;class#ToSend#0;class#FastLeaderElection#0" />
+            <element signature="class#mType#0;class#ToSend#0;class#FastLeaderElection#0" />
+            <element signature="method#ToSend#0;class#ToSend#0;class#FastLeaderElection#0" />
+            <element signature="docComment;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="docComment;class#WorkerReceiver#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="method#WorkerReceiver#0;class#WorkerReceiver#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="e#10747#10851#1" />
+            <element signature="e#10857#11158#1" />
+            <element signature="e#10914#11046#1" />
+            <element signature="e#11599#11684#1" />
+            <element signature="e#11919#13051#1" />
+            <element signature="e#12423#13021#1" />
+            <element signature="e#13057#15541#1" />
+            <element signature="e#13471#15511#1" />
+            <element signature="e#13533#13982#1" />
+            <element signature="e#14127#14755#1" />
+            <element signature="e#14761#15416#1" />
+            <element signature="e#15621#15790#0" />
+            <element signature="docComment;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="method#WorkerSender#0;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="e#16638#16692#0" />
+            <element signature="docComment;method#process#0;class#WorkerSender#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#queueEmpty#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#Messenger#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="method#Messenger#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#halt#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="method#halt#0;class#Messenger#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#getLogicalClock#0;class#FastLeaderElection#0" />
+            <element signature="n#!!block;n#getLogicalClock#0;n#FastLeaderElection#0" />
+            <element signature="docComment;method#FastLeaderElection#0;class#FastLeaderElection#0" />
+            <element signature="method#FastLeaderElection#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#starter#0;class#FastLeaderElection#0" />
+            <element signature="method#starter#0;class#FastLeaderElection#0" />
+            <element signature="method#leaveInstance#0;class#FastLeaderElection#0" />
+            <element signature="e#20204#20450#1" />
+            <element signature="n#!!block;n#getCnxManager#0;n#FastLeaderElection#0" />
+            <element signature="method#shutdown#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#sendNotifications#0;class#FastLeaderElection#0" />
+            <element signature="method#printNotification#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#totalOrderPredicate#0;class#FastLeaderElection#0" />
+            <element signature="method#totalOrderPredicate#0;class#FastLeaderElection#0" />
+            <element signature="e#22535#22572#1" />
+            <element signature="docComment;method#termPredicate#0;class#FastLeaderElection#0" />
+            <element signature="method#termPredicate#0;class#FastLeaderElection#0" />
+            <element signature="e#23777#23891#1" />
+            <element signature="e#23825#23881#1" />
+            <element signature="docComment;method#checkLeader#0;class#FastLeaderElection#0" />
+            <element signature="method#checkLeader#0;class#FastLeaderElection#0" />
+            <element signature="e#24918#25082#1" />
+            <element signature="e#25122#25164#1" />
+            <element signature="docComment;method#ooePredicate#0;class#FastLeaderElection#0" />
+            <element signature="method#ooePredicate#0;class#FastLeaderElection#0" />
+            <element signature="method#updateProposal#0;class#FastLeaderElection#0" />
+            <element signature="e#26316#26571#1" />
+            <element signature="n#!!block;n#getVote#0;n#FastLeaderElection#0" />
+            <element signature="docComment;method#learningState#0;class#FastLeaderElection#0" />
+            <element signature="method#learningState#0;class#FastLeaderElection#0" />
+            <element signature="e#27083#27197#1" />
+            <element signature="e#27210#27322#1" />
+            <element signature="docComment;method#getInitId#0;class#FastLeaderElection#0" />
+            <element signature="method#getInitId#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#getInitLastLoggedZxid#0;class#FastLeaderElection#0" />
+            <element signature="method#getInitLastLoggedZxid#0;class#FastLeaderElection#0" />
+            <element signature="docComment;method#getPeerEpoch#0;class#FastLeaderElection#0" />
+            <element signature="method#getPeerEpoch#0;class#FastLeaderElection#0" />
+            <element signature="e#28082#28135#0" />
+            <element signature="e#28157#28306#0" />
+            <element signature="docComment;method#lookForLeader#0;class#FastLeaderElection#0" />
+            <element signature="e#28629#28829#0" />
+            <element signature="e#28850#28964#0" />
+            <element signature="e#28998#29065#1" />
+            <element signature="e#29300#29433#0" />
+            <element signature="e#30908#37945#1" />
+            <element signature="e#31106#37927#0" />
+            <element signature="e#31286#31970#1" />
+            <element signature="e#31566#31676#1" />
+            <element signature="e#31682#31895#1" />
+            <element signature="e#32012#32454#1" />
+            <element signature="e#32066#32393#1" />
+            <element signature="e#32593#32744#1" />
+            <element signature="e#32794#33151#1" />
+            <element signature="e#33449#34879#1" />
+            <element signature="e#33672#34007#1" />
+            <element signature="e#33845#33977#1" />
+            <element signature="e#34269#34853#1" />
+            <element signature="e#35348#36278#1" />
+            <element signature="e#35730#36252#1" />
+            <element signature="e#36991#37671#1" />
+            <element signature="e#37039#37292#0" />
+            <element signature="e#37951#38058#1" />
+            <element signature="e#38116#38621#0" />
+            <element signature="e#38134#38340#0" />
+            <element signature="e#38190#38326#1" />
+            <element signature="e#38361#38438#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="98" column="6" lean-forward="true" selection-start-line="98" selection-start-column="6" selection-end-line="98" selection-end-column="6" />
+          <folding>
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1489" column="29" selection-start-line="1489" selection-start-column="29" selection-end-line="1489" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/QuorumCnxManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="86" column="15" lean-forward="true" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+          <folding>
+            <element signature="docComment;class#QuorumCnxManager#0" />
+            <element signature="method#setSockOpts#0;class#QuorumCnxManager#0" />
+            <element signature="method#initiateConnection#0;class#QuorumCnxManager#0" />
+            <element signature="method#toSend#0;class#QuorumCnxManager#0" />
+            <element signature="method#addToRecvQueue#0;class#QuorumCnxManager#0" />
+            <element signature="method#addToQueue#0;class#QuorumCnxManager#0" />
+            <element signature="method#SendWorker#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+            <element signature="method#send#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+            <element signature="method#run#0;class#SendWorker#0;class#QuorumCnxManager#0" />
+            <element signature="class#RecvWorker#0;class#QuorumCnxManager#0" />
+            <element signature="method#RecvWorker#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+            <element signature="docComment;method#finish#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+            <element signature="method#finish#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+            <element signature="method#run#0;class#RecvWorker#0;class#QuorumCnxManager#0" />
+            <element signature="class#Message#0;class#QuorumCnxManager#0" />
+            <element signature="method#Message#0;class#Message#0;class#QuorumCnxManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/org/apache/zookeeper/server/quorum/QuorumCnxManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="850" column="39" lean-forward="true" selection-start-line="850" selection-start-column="39" selection-end-line="850" selection-end-column="39" />
+          <folding>
+            <element signature="docComment;class#QuorumCnxManager#0" />
+            <element signature="e#5307#5516#0" />
+            <element signature="e#5354#5464#0" />
+            <element signature="e#6386#6448#1" />
+            <element signature="e#6830#8283#0" />
+            <element signature="e#7247#7373#1" />
+            <element signature="e#8289#8381#0" />
+            <element signature="e#8484#8554#1" />
+            <element signature="e#8779#8943#0" />
+            <element signature="e#8779#9346#0" />
+            <element signature="e#9028#9079#0" />
+            <element signature="e#9102#9340#0" />
+            <element signature="e#9352#9487#0" />
+            <element signature="e#9352#10524#0" />
+            <element signature="e#9608#9920#1" />
+            <element signature="e#9622#9674#0" />
+            <element signature="e#9933#10098#0" />
+            <element signature="e#10119#10518#0" />
+            <element signature="e#10133#10200#0" />
+            <element signature="e#10530#10598#0" />
+            <element signature="e#10530#11129#0" />
+            <element signature="e#10728#10913#0" />
+            <element signature="e#10923#11123#0" />
+            <element signature="e#10976#11038#0" />
+            <element signature="e#11047#11113#0" />
+            <element signature="e#11309#11600#0" />
+            <element signature="e#11623#11769#0" />
+            <element signature="e#11961#12201#1" />
+            <element signature="e#12207#12842#1" />
+            <element signature="e#12586#12716#1" />
+            <element signature="e#12876#13183#0" />
+            <element signature="e#12876#13664#0" />
+            <element signature="e#13287#13448#0" />
+            <element signature="e#13471#13658#0" />
+            <element signature="e#13670#13783#0" />
+            <element signature="e#13670#14235#0" />
+            <element signature="e#13856#14021#0" />
+            <element signature="e#14042#14229#0" />
+            <element signature="e#14241#14314#0" />
+            <element signature="e#14241#14710#0" />
+            <element signature="e#14433#14610#0" />
+            <element signature="e#17906#18031#0" />
+            <element signature="e#17906#19144#0" />
+            <element signature="e#18211#18410#1" />
+            <element signature="e#18416#19138#1" />
+            <element signature="e#18568#18799#1" />
+            <element signature="e#18805#19081#1" />
+            <element signature="e#18914#18978#1" />
+            <element signature="e#18984#19066#1" />
+            <element signature="e#19154#19263#0" />
+            <element signature="e#19514#19608#1" />
+            <element signature="e#19625#20401#0" />
+            <element signature="e#19909#19965#0" />
+            <element signature="e#20236#20311#1" />
+            <element signature="e#20317#20387#1" />
+            <element signature="e#20439#21098#0" />
+            <element signature="e#20457#20508#0" />
+            <element signature="e#20834#20881#0" />
+            <element signature="e#20979#21059#1" />
+            <element signature="e#21121#21642#0" />
+            <element signature="e#21290#21357#0" />
+            <element signature="e#21548#21628#1" />
+            <element signature="e#21658#21743#1" />
+            <element signature="e#21764#21858#0" />
+            <element signature="e#22101#22200#0" />
+            <element signature="e#22101#22480#0" />
+            <element signature="e#22306#22451#1" />
+            <element signature="e#22397#22441#1" />
+            <element signature="e#22486#22579#0" />
+            <element signature="e#22486#22948#0" />
+            <element signature="e#22811#22865#1" />
+            <element signature="e#22957#23012#0" />
+            <element signature="e#22957#23187#0" />
+            <element signature="e#23097#23181#1" />
+            <element signature="e#23193#23313#0" />
+            <element signature="e#23193#23462#0" />
+            <element signature="e#23468#23584#0" />
+            <element signature="e#23468#23773#0" />
+            <element signature="e#23641#23678#0" />
+            <element signature="e#23702#23767#0" />
+            <element signature="e#23779#23829#0" />
+            <element signature="e#23908#23974#0" />
+            <element signature="e#24073#24155#0" />
+            <element signature="e#24251#24299#0" />
+            <element signature="e#24251#27946#0" />
+            <element signature="e#24403#24585#0" />
+            <element signature="e#24435#24497#0" />
+            <element signature="e#24595#24641#0" />
+            <element signature="e#25581#26479#1" />
+            <element signature="e#25838#25882#0" />
+            <element signature="e#26241#26328#1" />
+            <element signature="e#26334#26416#1" />
+            <element signature="e#26520#27065#0" />
+            <element signature="e#26643#26746#0" />
+            <element signature="e#26770#26863#0" />
+            <element signature="e#26896#27047#0" />
+            <element signature="e#27149#27428#1" />
+            <element signature="e#27456#27510#0" />
+            <element signature="e#27456#27940#0" />
+            <element signature="e#27547#27820#0" />
+            <element signature="e#27642#27806#1" />
+            <element signature="e#27842#27930#0" />
+            <element signature="e#27952#28134#0" />
+            <element signature="e#28333#28629#0" />
+            <element signature="e#28333#29152#0" />
+            <element signature="e#28819#28903#0" />
+            <element signature="e#28926#29080#0" />
+            <element signature="e#29274#29398#0" />
+            <element signature="e#29446#29488#0" />
+            <element signature="e#29584#29655#1" />
+            <element signature="e#29693#29830#1" />
+            <element signature="e#30002#30054#1" />
+            <element signature="e#30094#30186#1" />
+            <element signature="e#30330#30785#0" />
+            <element signature="e#30458#30537#0" />
+            <element signature="e#30574#30673#0" />
+            <element signature="e#30795#33518#0" />
+            <element signature="e#30890#32040#0" />
+            <element signature="e#31776#32026#1" />
+            <element signature="e#31872#32008#1" />
+            <element signature="e#32063#32193#0" />
+            <element signature="e#32223#33208#0" />
+            <element signature="e#32286#33194#1" />
+            <element signature="e#32354#33002#0" />
+            <element signature="e#32512#32619#1" />
+            <element signature="e#32625#32820#1" />
+            <element signature="e#32859#32980#1" />
+            <element signature="e#33034#33176#0" />
+            <element signature="e#33229#33429#0" />
+            <element signature="e#33530#33687#0" />
+            <element signature="e#33530#36362#0" />
+            <element signature="e#33888#34440#0" />
+            <element signature="e#34128#34251#0" />
+            <element signature="e#34274#34430#0" />
+            <element signature="e#34458#34573#0" />
+            <element signature="e#34458#34926#0" />
+            <element signature="e#34638#34775#1" />
+            <element signature="e#34936#36356#0" />
+            <element signature="e#35031#35961#0" />
+            <element signature="e#35094#35947#1" />
+            <element signature="e#35360#35553#1" />
+            <element signature="e#35982#36147#0" />
+            <element signature="e#36156#36346#0" />
+            <element signature="e#36274#36332#1" />
+            <element signature="e#36368#37286#0" />
+            <element signature="e#36368#37952#0" />
+            <element signature="e#37432#37733#1" />
+            <element signature="e#37450#37497#0" />
+            <element signature="e#37532#37723#0" />
+            <element signature="e#37746#37788#0" />
+            <element signature="e#37822#37946#0" />
+            <element signature="e#37958#38131#0" />
+            <element signature="e#38252#38510#0" />
+            <element signature="e#38252#38701#0" />
+            <element signature="e#38707#39794#0" />
+            <element signature="e#38707#40521#0" />
+            <element signature="e#39873#40515#0" />
+            <element signature="e#39927#40266#1" />
+            <element signature="e#39949#40008#0" />
+            <element signature="e#40043#40252#0" />
+            <element signature="e#40283#40334#0" />
+            <element signature="e#40368#40505#0" />
+            <element signature="e#40527#40788#0" />
+            <element signature="e#40527#40938#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/election/src/main/java/com/hkx/sz/election/TestInterflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>study-zookeeper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.netty:netty:3.10.5.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
