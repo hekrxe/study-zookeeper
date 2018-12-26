@@ -1,4 +1,4 @@
-package com.hkx.sz.election;
+package com.hkx.sz.election.origin;
 
 import java.net.InetSocketAddress;
 import java.util.HashMap;

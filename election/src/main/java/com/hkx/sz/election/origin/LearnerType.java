@@ -1,15 +1,15 @@
-package com.hkx.sz.election;
+package com.hkx.sz.election.origin;
 
 /**
  * Created by tanhuayou on 2018/12/25
  */
-public enum LearnerType {
+public interface LearnerType {
     /**
      * 参与竞选
      */
-    PARTICIPANT,
+    int PARTICIPANT = 1;
     /**
      * 观望者 机会就没有了
      */
-    OBSERVER;
+    int OBSERVER = 2;
 }

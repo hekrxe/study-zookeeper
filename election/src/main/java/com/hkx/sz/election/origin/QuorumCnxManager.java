@@ -1,4 +1,4 @@
-package com.hkx.sz.election;
+package com.hkx.sz.election.origin;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;
@@ -35,7 +35,6 @@ public class QuorumCnxManager {
     private final Object recvQLock = new Object();
     private static final int SEND_CAPACITY = 1;
     private final ConcurrentHashMap<Long, ArrayBlockingQueue<ByteBuffer>> queueSendMap = new ConcurrentHashMap<>();
-    private final ConcurrentHashMap<Long, ByteBuffer> lastMessageSent = new ConcurrentHashMap<>();
     private final Map<Long, QuorumServer> view;
     private final Listener listener = new Listener();
 
@@ -141,19 +140,15 @@ public class QuorumCnxManager {
             addToRecvQueue(new Message(b.duplicate(), sid));
         } else {
             if (!queueSendMap.containsKey(sid)) {
-                ArrayBlockingQueue<ByteBuffer> bq = new ArrayBlockingQueue<ByteBuffer>(
-                        SEND_CAPACITY);
-                queueSendMap.put(sid, bq);
-                addToSendQueue(bq, b);
-
-            } else {
-                ArrayBlockingQueue<ByteBuffer> bq = queueSendMap.get(sid);
-                if (bq != null) {
-                    addToSendQueue(bq, b);
-                } else {
-                    System.out.println("No queue for server " + sid);
-                }
+                queueSendMap.put(sid, new ArrayBlockingQueue<>(SEND_CAPACITY));
             }
+            ArrayBlockingQueue<ByteBuffer> bq = queueSendMap.get(sid);
+            if (bq != null) {
+                addToSendQueue(bq, b);
+            } else {
+                System.out.println("No queue for server " + sid);
+            }
+            addToSendQueue(bq, b);
             connectOne(sid);
         }
     }
@@ -166,6 +161,37 @@ public class QuorumCnxManager {
                 connectOne(sid);
             }
         });
+    }
+
+    public void shutdown() {
+        shutdown = true;
+        softHalt();
+    }
+
+    public boolean haveDelivered() {
+        for (ArrayBlockingQueue<ByteBuffer> queue : queueSendMap.values()) {
+            if (queue.size() == 0) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public Message pollRecvQueue(long timeout, TimeUnit unit)
+            throws InterruptedException {
+        return recvQueue.poll(timeout, unit);
+    }
+
+    private ByteBuffer pollSendQueue(ArrayBlockingQueue<ByteBuffer> queue,
+                                     long timeout, TimeUnit unit) throws InterruptedException {
+        return queue.poll(timeout, unit);
+    }
+
+    private void softHalt() {
+        for (SendWorker sw : senderWorkerMap.values()) {
+            sw.finish();
+        }
     }
 
     private void addToSendQueue(ArrayBlockingQueue<ByteBuffer> queue, ByteBuffer buffer) {
@@ -310,20 +336,6 @@ public class QuorumCnxManager {
         @Override
         public void run() {
             try {
-                ArrayBlockingQueue<ByteBuffer> bq = queueSendMap.get(sid);
-                if (bq == null || bq.isEmpty()) {
-                    ByteBuffer b = lastMessageSent.get(sid);
-                    if (b != null) {
-                        System.out.println("Attempting to send lastMessage to sid=" + sid);
-                        send(b);
-                    }
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
-                this.finish();
-            }
-
-            try {
                 while (running && !shutdown && sock != null) {
                     ByteBuffer b;
                     try {
@@ -336,7 +348,6 @@ public class QuorumCnxManager {
                         }
 
                         if (b != null) {
-                            lastMessageSent.put(sid, b);
                             send(b);
                         }
                     } catch (InterruptedException ignored) {

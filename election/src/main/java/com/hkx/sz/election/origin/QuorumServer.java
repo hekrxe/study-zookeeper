@@ -1,4 +1,4 @@
-package com.hkx.sz.election;
+package com.hkx.sz.election.origin;
 
 import java.net.InetSocketAddress;
 
@@ -18,7 +18,7 @@ public class QuorumServer {
 
     public long id;
 
-    public LearnerType learnerType;
+    public int learnerType;
 
     public QuorumServer(long id, InetSocketAddress electionAddr) {
         this.id = id;

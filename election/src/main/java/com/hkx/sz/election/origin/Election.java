@@ -1,4 +1,4 @@
-package com.hkx.sz.election;
+package com.hkx.sz.election.origin;
 
 import com.hkx.sz.common.Vote;
 
@@ -7,7 +7,7 @@ import com.hkx.sz.common.Vote;
  */
 public interface Election {
 
-    Vote lookForLeader(Vote currentVote);
+    Vote lookForLeader();
 
     void shutdown();
 }
