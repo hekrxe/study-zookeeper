@@ -1,9 +1,10 @@
 *.iml
 .idea/
-target/
+target/*
 *.log*
 *.class
 *.patch
 *.DS_Store
-generated/
+generated/*
 .idea
+target
